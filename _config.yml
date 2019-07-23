@@ -3,6 +3,9 @@ title: Filipe Constantinov Menezes
 logo: https://github.com/fmenezes.png
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
 description: |
   I am a software engineer currently based in Dublin, Ireland.
   Proud father, dog owner, husband and geek.
