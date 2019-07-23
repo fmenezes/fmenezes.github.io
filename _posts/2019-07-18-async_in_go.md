@@ -35,4 +35,4 @@ The first interesting line is this one ```syncCode()``` this code runs immediate
 
 Next statement is ```go asyncCode()``` this command `go` is used to make the execution run in another thread.
 
-Last statement ```time.Sleep(time.Second)``` is simply a hack to wait 1 second so the asynchronous code runs before exiting the process (in Go the main thread finishes last statement runs in function `main`).
+Last statement ```time.Sleep(time.Second)``` is simply a hack to wait 1 second so the asynchronous code runs before exiting the process (in Go once the `main` method finishes last statement the process is terminated together with all children threads).
