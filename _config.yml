@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Filipe Constantinov Menezes
+logo: https://github.com/fmenezes.png
 exclude:
   - README.md
 description: |
