@@ -17,5 +17,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-gems:
   - jekyll-last-modified-at
