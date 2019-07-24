@@ -2,5 +2,10 @@ source 'https://rubygems.org'
 
 ruby File.read('.ruby-version')
 
-gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll-theme-minimal'
+group :jekyll_plugins do
+  gem 'github-pages'
+  gem 'jekyll-theme-minimal'
+  gem 'jekyll-feed'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-last-modified-at'
+end
