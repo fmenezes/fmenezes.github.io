@@ -22,13 +22,12 @@ func main() {
 }
 
 func syncCode() {
-  fmt.Println("synchronous code")
+	fmt.Println("synchronous code")
 }
 
 func asyncCode() {
 	fmt.Println("asynchronous code")
 }
-
 ```
 
 The first interesting line is this one ```syncCode()``` this code runs immediately synchronously.
