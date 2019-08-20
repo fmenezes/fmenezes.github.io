@@ -6,7 +6,7 @@ tags: go struct
 Structs can have methods.
 
 <p class="code-link" markdown='1'>
-	[See in playground](https://play.golang.org/p/oHYs0HaDukz)
+	[See in playground](https://play.golang.org/p/oHYs0HaDukz){:target="_blank"}
 </p>
 ```go
 package main

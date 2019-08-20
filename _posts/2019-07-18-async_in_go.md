@@ -6,7 +6,7 @@ tags: go async
 One of the fundamental concepts of [Go](http://golang.org){:target="_blank"} is writing asynchronous code and this is accomplished using `go` command.
 
 <p class="code-link" markdown='1'>
-	[See in playground](https://play.golang.org/p/q3lsUeTXnEp)
+	[See in playground](https://play.golang.org/p/q3lsUeTXnEp){:target="_blank"}
 </p>
 
 ```go
