@@ -247,7 +247,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-feed
   jekyll-last-modified-at
   jekyll-sitemap
   jekyll-theme-minimal
