@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: b2a3e8/jekyll-theme-console
 title: Filipe Constantinov Menezes
 logo: https://github.com/fmenezes.png
 exclude:
@@ -6,14 +6,12 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - CNAME
-description: |
-  I am a software engineer currently based in Dublin, Ireland.
-  Proud father, dog owner, husband and geek.
 author: Filipe Constantinov Menezes
-github:
-  is_user_page: false
-  is_project_page: false
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-last-modified-at
+header_pages:
+  - index.md
+style: dark
+footer: '<a target="_blank" href="https://twitter.com/fcmenezes87">Twitter</a> <a target="_blank" href="https://github.com/fmenezes">Github</a> <a target="_blank" href="https://linkedin.com/in/fcmenezes">LinkedIn</a>'

@@ -2,8 +2,6 @@
 title: 'Filipe Constantinov Menezes'
 ---
 
-{% for post in site.posts %}
-<small>{{ post.date | date: "%-d %B %Y" }}</small>
-## [{{ post.title }}]({{ post.url }})
-{{ post.content }}
-{% endfor %}
+I am a software engineer currently based in Dublin, Ireland.
+Proud father, dog owner, husband and geek.
+
