@@ -12,6 +12,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-last-modified-at
+  - jekyll-redirect-from
 header_pages:
   - index.md
 style: dark
