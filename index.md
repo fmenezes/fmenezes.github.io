@@ -13,4 +13,6 @@ I'm really excited about backend and scalability.
 Download my resume [here](/assets/Resume-Filipe-Constantinov-Menezes.pdf){:target="_blank"}.
 &nbsp;
 Run this to see in your terminal ;)
-      curl -s https://www.filipemenezes.com/assets/site.sh | sh
+```
+      curl -s {{site.url}}/assets/site.sh | sh
+```
