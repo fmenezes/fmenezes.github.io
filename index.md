@@ -12,5 +12,5 @@ I'm really excited about backend and scalability.
 &nbsp;
 Download my resume [here](/assets/Resume-Filipe-Constantinov-Menezes.pdf){:target="_blank"}.
 &nbsp;
-Run this in your terminal to see this in the terminal ;)
+Run this to see in your terminal ;)
       curl -s https://www.filipemenezes.com/assets/site.sh | sh
