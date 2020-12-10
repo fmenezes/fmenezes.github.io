@@ -2,7 +2,7 @@ URL=https://www.filipemenezes.com
 cat <<EOF
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-Filipe Constantinov Menezes
+                                                                            Filipe Constantinov Menezes
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 I am a software engineer currently based at Dublin, Ireland.
@@ -14,7 +14,7 @@ Twilio with more than 20 million http requests and 5 million phone calls a week.
  
 I’m really excited about backend and scalability.
  
-Download my resume at $URL/assets/Resume-Filipe-Constantinov-Menezes.pdf.
+Download my resume at $URL/resume.
 
 Visit $URL to see this in the browser ;)
 
