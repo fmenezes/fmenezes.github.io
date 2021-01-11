@@ -11,8 +11,3 @@ I'm currently working for http://mongodb.com for the Ops Manager team.
 I'm really excited about backend and scalability.
 &nbsp;
 Download my resume [here](/resume){:target="_blank"}.
-&nbsp;
-Run this to see in your terminal ;)
-```
-      curl -s {{site.url}}/assets/site.sh | sh
-```
