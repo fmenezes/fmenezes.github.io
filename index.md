@@ -6,7 +6,7 @@ I am a software engineer currently based at Dublin, Ireland.
 &nbsp;
 Proud father, dog owner, husband and geek.
 &nbsp;
-I'm currently working for http://zendesk.com on a telecom powered project using Twilio with more than 20 million http requests and 5 million phone calls a week.
+I'm currently working for http://mongodb.com for the Ops Manager team.
 &nbsp;
 I'm really excited about backend and scalability.
 &nbsp;
