@@ -2,7 +2,7 @@
 title: 'Filipe Constantinov Menezes'
 ---
 
-I am a software engineer currently based at Dublin, Ireland.
+I am a software engineer currently based in Kildare, Ireland.
 &nbsp;
 Proud father, dog owner, husband and geek.
 &nbsp;
