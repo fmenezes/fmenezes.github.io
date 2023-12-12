@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/fmenezes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://filipemenezes.com
+  * I am fmenezes (https://keybase.io/fmenezes) on keybase.
+  * I have a public key ASAj3I5XNS5r7DqK-EHVSNLevjXciCojWU_eWy8jTp57TAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012032e2b8845a83b262b93b0187c2e0b6f06e514e8c4bc577ffce40a252c189dd9e0a",
+      "host": "keybase.io",
+      "kid": "012023dc8e57352e6bec3a8af841d548d2debe35dc882a23594fde5b2f234e9e7b4c0a",
+      "uid": "36551e68d859487f9f9483b7d4ef1819",
+      "username": "fmenezes"
+    },
+    "merkle_root": {
+      "ctime": 1702372683,
+      "hash": "fffcb06a4550e8a3f184ebd1be32b9c12ae8440357a3183d20f01500200b8644ee55ab71c43608d966285fa8eb1b676f80c6ef7dc6eae1bbc3446f05bbca6456",
+      "hash_meta": "9021a8f19e7fb5300edee3e3e431b9652061842b5a113787bcd172dfe1728a03",
+      "seqno": 25232235
+    },
+    "service": {
+      "entropy": "+tQN0S+N91zr3fsiy7vh8Q3/",
+      "hostname": "filipemenezes.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.3"
+  },
+  "ctime": 1702372886,
+  "expire_in": 504576000,
+  "prev": "298aaad5447b28aae35a204dec6f2e12d7a387c3640f79ba2ce2eedd429b8e6f",
+  "seqno": 39,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgI9yOVzUua+w6ivhB1UjS3r413IgqI1lP3lsvI06ee0wKp3BheWxvYWTESpcCJ8QgKYqq1UR7KKrjWiBN7G8uEtejh8NkD3m6LOLu3UKbjm/EINsND4ah2ikhcIzFhlwtspXnztHegY5ggva2QVL3NXQfAgHCo3NpZ8RAon+sp8Ti6DBxQgGPS03yj5/9r/L1wMwbYIJnCndKm6cVP1ZMY34uk0O63/k4Of1zvKDUembyrVSfhE7iFWw5DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMpBieF60VsHiub/p8NqjhgmUViOgL8FjPhpf5J3pPrKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fmenezes
+
+==================================================================
