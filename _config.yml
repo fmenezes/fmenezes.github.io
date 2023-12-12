@@ -1,6 +1,7 @@
 remote_theme: b2a3e8/jekyll-theme-console
 title: Filipe Constantinov Menezes
 logo: https://github.com/fmenezes.png
+include: [".well-known"]
 exclude:
   - README.md
   - Gemfile
